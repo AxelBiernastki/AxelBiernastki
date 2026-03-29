@@ -14,6 +14,9 @@
 <div align="left">
   <table align="right">
     <tr>
+      <td><a href="https://www.instagram.com/axelbiernastki/"><img src="assets/instagram.svg" width="30" alt="Instagram"/></a></td>
+      <td><a href="https://www.linkedin.com/in/axelbiernastki/"><img src="assets/linkedin.svg" width="130" alt="LinkedIn"/></a></td>
+      <td><a href="https://www.youtube.com/shorts/_5DFMNasXbU"><img src="assets/youtube.svg" width="130" alt="Youtube"/></a></td>
     </tr>
   </table>
 </div>
