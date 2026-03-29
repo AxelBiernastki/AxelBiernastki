@@ -11,6 +11,7 @@
 # Principais Stacks
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Axel-NestJs" height="65" width="65" src="assets/sap-svgrepo-com.svg" /> 
   <img align="center" alt="Axel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Axel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Axel-VSCode" height="28" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
@@ -18,7 +19,6 @@
   <img align="center" alt="Axel-NodeJs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="Axel-Prisma" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" />
   <img align="center" alt="Axel-NestJs" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" />
-  <img align="center" alt="Axel-NestJs" height="70" width="80" src="assets/sap-svgrepo-com.svg" /> 
 </div>
   
 
