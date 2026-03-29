@@ -14,9 +14,9 @@
 <div align="left">
   <table align="right">
     <tr>
-      <td><a href="https://www.instagram.com/axelbiernastki/"><img src="assets/instagram.svg" width="35" alt="Instagram"/></a></td>
-      <td><a href="https://www.linkedin.com/in/axelbiernastki/"><img src="assets/linkedin.svg" height="100" alt="LinkedIn"/></a></td>
-      <td><a href="https://www.youtube.com/shorts/_5DFMNasXbU"><img src="assets/youtube.svg" height="100" alt="Youtube"/></a></td>
+      <td><a href="https://www.instagram.com/axelbiernastki/"><img src="assets/instagram.svg" width="30" alt="Instagram"/></a></td>
+      <td><a href="https://www.linkedin.com/in/axelbiernastki/"><img src="assets/linkedin.svg" height="30" alt="LinkedIn"/></a></td>
+      <td><a href="https://www.youtube.com/shorts/_5DFMNasXbU"><img src="assets/youtube.svg" height="30" alt="Youtube"/></a></td>
     </tr>
   </table>
 
