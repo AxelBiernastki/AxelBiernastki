@@ -41,11 +41,22 @@
 
 <p>Sou um Desenvolvedor SAP Full-Stack com foco em Backend, onde atuo principalmente com CAP em Node.js.</p>
 <p>Atualmente trabalho na Multinacional <strong>NTT DATA Business Solutions</strong> onde tenho evoluído minhas habilidades gradualmente, com incentivos para performar e foco em entregas consistentes aos nossos clientes.</p>
-<p>Tenho 25 anos e moro em Curitiba-PR. Veja alguns de meus projetos abaixo! <img src="assets/abaixo.svg" width="20"></p>
 
+Além da atuação no ecossistema SAP, tenho conhecimento em desenvolvimentos com: 
+- Node.js 
+- Express
+- Fastify
+- NestJS
+- TypeScript
+
+Meu objetivo é me tornar um profissional respeitado construindo soluções escaláveis, bem estruturadas e alinhadas às necessidades do negócio, combinando qualidade técnica, organização e evolução contínua.
+
+<p>Tenho 25 anos e moro em Curitiba-PR. Veja alguns de meus projetos abaixo! <img src="assets/abaixo.svg" width="20"></p>
+<br clear="both">
+<br clear="both">
 <h2><img alt="Axel-Github" width="18" src="assets/github.svg"/> GitHub</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AxelBiernastki&theme=tokyonight&hide_border=true" width="800" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AxelBiernastki&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
