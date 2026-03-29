@@ -1,7 +1,7 @@
 <h1 align="center">Fala Dev, beleza? Eu sou o Axel <img align="center" alt="Spiderman-Icon" height="40" width="40" src="assets/homem-aranha.svg" /> </h1>
 
 <p align="center">
-  SAP BTP - Backend Developer
+  <strong>SAP BTP</strong> - Backend Developer
 </p>
 
 <p align="center">
@@ -10,18 +10,15 @@
 
 # 
 
-
+### Principais Stacks
 <div align="left">
   <table align="right">
     <tr>
-      <td><a href="https://www.instagram.com/axelbiernastki/"><img src="assets/instagram.svg" width="30" alt="Instagram"/></a></td>
-      <td><a href="https://www.linkedin.com/in/axelbiernastki/"><img src="assets/linkedin.svg" height="30" alt="LinkedIn"/></a></td>
-      <td><a href="https://www.youtube.com/shorts/_5DFMNasXbU"><img src="assets/youtube.svg" height="30" alt="Youtube"/></a></td>
     </tr>
   </table>
 </div>
 
-### Principais Stacks
+
 <div>
 
   <img align="center" alt="Axel-SAP" width="55" src="assets/sap.svg" />
