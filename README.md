@@ -38,3 +38,7 @@
 <br clear="both">
 
 <h2><img src="assets/capitao.svg" width="20"> Sobre mim</h2>
+
+<p>Sou um Desenvolvedor SAP Full-Stack com foco em Backend, onde atuo principalmente com CAP em Node.js.</p>
+<p>Atualmente trabalho na Multinacional <strong>NTT DATA Business Solutions</strong> onde tenho evoluído minhas habilidades gradualmente, com incentivos para performar e foco em entregas consistentes aos nossos clientes.</p>
+<p>Tenho 25 anos e moro em Curitiba-PR.</p>
