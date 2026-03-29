@@ -10,17 +10,8 @@
 
 # 
 
-<div align="left">
-  <table align="right">
-    <tr>
-      <td><a href="https://www.instagram.com/axelbiernastki/"><img src="assets/instagram.svg" width="30" alt="Instagram"/></a></td>
-      <td><a href="https://www.linkedin.com/in/axelbiernastki/"><img src="assets/linkedin.svg" width="100" alt="LinkedIn"/></a></td>
-      <td><a href="https://www.youtube.com/shorts/_5DFMNasXbU"><img src="assets/youtube.svg" width="100" alt="Youtube"/></a></td>
-    </tr>
-  </table>
-</div>
 
-### Principais Stacks
+<h2>Principais Stacks</h2> 
 
 <div>
   <img align="center" alt="Axel-SAP" width="55" src="assets/sap.svg" />
@@ -32,6 +23,17 @@
   <img align="center" alt="Axel-NodeJs" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />&nbsp;
   <img align="center" alt="Axel-Prisma" width="80" src="assets/prisma.svg" />&nbsp;
   <img align="center" alt="Axel-NestJs" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" />
+</div>
+
+<h3 align="right">Redes Sociais</h3>
+<div align="left">
+  <table align="right">
+    <tr>
+      <td><a href="https://www.instagram.com/axelbiernastki/"><img src="assets/instagram.svg" width="30" alt="Instagram"/></a></td>
+      <td><a href="https://www.linkedin.com/in/axelbiernastki/"><img src="assets/linkedin.svg" width="100" alt="LinkedIn"/></a></td>
+      <td><a href="https://www.youtube.com/shorts/_5DFMNasXbU"><img src="assets/youtube.svg" width="100" alt="Youtube"/></a></td>
+    </tr>
+  </table>
 </div>
 
 
