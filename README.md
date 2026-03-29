@@ -10,7 +10,6 @@
 
 # 
 
-### Principais Stacks
 <div align="left">
   <table align="right">
     <tr>
@@ -21,9 +20,9 @@
   </table>
 </div>
 
+### Principais Stacks
 
 <div>
-
   <img align="center" alt="Axel-SAP" width="55" src="assets/sap.svg" />
   <img align="center" alt="Axel-SAP" width="40" src="https://cap.cloud.sap/docs/logos/cap.svg" />
   <img align="center" alt="Axel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
