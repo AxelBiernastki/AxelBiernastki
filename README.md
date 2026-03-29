@@ -1,4 +1,4 @@
-<h1 align="center">Fala Dev, beleza? Eu sou o Axel ×͜×</h1>
+<h1 align="center">Fala Dev, beleza? Eu sou o Axel <img align="center" alt="Axel-NestJs" height="40" width="40" src="assets/homem-aranha.svg" /> </h1>
 
 <p align="center">
   SAP BTP - Backend Developer
