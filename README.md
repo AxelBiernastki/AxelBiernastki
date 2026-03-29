@@ -15,12 +15,13 @@
   <table align="right">
     <tr>
       <td><a href="https://www.instagram.com/axelbiernastki/"><img src="assets/instagram.svg" width="35" alt="Instagram"/></a></td>
-      <td><a href="https://www.linkedin.com/in/axelbiernastki/"><img src="assets/linkedin.svg" height="100" alt="LinkedIn"/></a></td>
-      <td><a href="https://www.youtube.com/shorts/_5DFMNasXbU"><img src="assets/youtube.svg" height="100" alt="Youtube"/></a></td>
+      <td><a href="https://www.linkedin.com/in/axelbiernastki/"><img src="assets/linkedin.svg" width="80" alt="LinkedIn"/></a></td>
+      <td><a href="https://www.youtube.com/shorts/_5DFMNasXbU"><img src="assets/youtube.svg" width="80" alt="Youtube"/></a></td>
     </tr>
   </table>
 
-  <img align="center" alt="Axel-SAP" width="55" src="assets/sap.svg" /> 
+  <img align="center" alt="Axel-SAP" width="55" src="assets/sap.svg" />
+  <img align="center" alt="Axel-SAP" width="40" src="https://cap.cloud.sap/docs/logos/cap.svg" />
   <img align="center" alt="Axel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Axel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Axel-VSCode" height="28" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />&nbsp;
