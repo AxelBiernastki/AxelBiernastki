@@ -10,7 +10,7 @@
 
 # 
 
-### Stacks
+
 <div align="left">
   <table align="right">
     <tr>
@@ -19,6 +19,10 @@
       <td><a href="https://www.youtube.com/shorts/_5DFMNasXbU"><img src="assets/youtube.svg" width="80" alt="Youtube"/></a></td>
     </tr>
   </table>
+</div>
+
+### Principais Stacks
+<div>
 
   <img align="center" alt="Axel-SAP" width="55" src="assets/sap.svg" />
   <img align="center" alt="Axel-SAP" width="40" src="https://cap.cloud.sap/docs/logos/cap.svg" />
@@ -30,5 +34,6 @@
   <img align="center" alt="Axel-Prisma" width="80" src="assets/prisma.svg" />&nbsp;
   <img align="center" alt="Axel-NestJs" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" />
 </div>
+
 
 <br clear="both">
