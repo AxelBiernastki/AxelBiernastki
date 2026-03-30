@@ -8,7 +8,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1veXc2cHh0N2huNW8wZmNqbGF4d3Q5NGk2MWJxZzd6YndoOXAwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VSe6e3019bJrG/giphy.gif" width="1100" height="200" alt="GIF centralizado" />
 </p>
 
-<h2><img alt="Axel-Github" width="18" src="assets/github.svg"/> Principais Stacks</h2> 
+<h2><img alt="Axel-Github" width="18" src="assets/github.svg"/>&nbsp; Principais Técnologias</h2> 
 
 <div>
   <img align="center" alt="Axel-SAP" width="55" src="assets/sap.svg" />&nbsp;&nbsp;&nbsp;
@@ -37,7 +37,7 @@
 
 <br clear="both">
 
-<h2><img src="assets/capitao.svg" width="20"> Sobre mim</h2>
+<h2><img src="assets/capitao.svg" width="20">&nbsp; Sobre mim</h2>
 
 <p>Sou um Desenvolvedor SAP Full-Stack com foco em Backend, onde atuo principalmente com CAP em Node.js.</p>
 <p>Atualmente trabalho na Multinacional <strong>NTT DATA Business Solutions</strong> onde tenho evoluído minhas habilidades gradualmente, com incentivos para performar e foco em entregas consistentes aos nossos clientes.</p>
@@ -54,7 +54,7 @@ Meu objetivo é me tornar um profissional respeitado construindo soluções esca
 <p>Tenho 25 anos e moro em Curitiba-PR. Veja alguns de meus projetos abaixo! <img src="assets/abaixo.svg" width="20"></p>
 <br clear="both">
 <br clear="both">
-<h2><img alt="Axel-Github" width="18" src="assets/github.svg"/> GitHub</h2>
+<h2><img alt="Axel-Github" width="18" src="assets/github.svg"/>&nbsp; GitHub</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AxelBiernastki&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
