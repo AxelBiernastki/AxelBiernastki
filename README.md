@@ -14,13 +14,13 @@
   <img align="center" alt="Axel-SAP" width="55" src="assets/sap.svg" />&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Axel-CAP" width="40" src="https://cap.cloud.sap/docs/logos/cap.svg" />&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Axel-UI5" width="30" src="https://ui5.sap.com/resources/sap/ui/documentation/sdk/images/sap-ui5-logo.svg" />&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Axel-NPM" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Axel-NestJs" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Axel-NodeJs" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Axel-Prisma" width="80" src="assets/prisma.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Axel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Axel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Axel-VSCode" height="28" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Axel-NPM" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Axel-NodeJs" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Axel-Prisma" width="80" src="assets/prisma.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Axel-NestJs" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" />
 </div>
 
 <h3 align="right">Redes Sociais</h3>
